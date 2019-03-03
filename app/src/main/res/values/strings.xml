@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Student Management</string>
+
+
+    <string name="mostofa_name">Md. Mostofa Kamal</string>
+    <string name="mostofa_details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</string>
+
+
+    <string name="masud_name">Md. Masud Rana</string>
+    <string name="masud_details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</string>
+
+
+    <string name="ripon_name">Md. Ripon</string>
+    <string name="ripon_details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</string>
+
+
+    <string name="kousik_name">Kousik Saha</string>
+    <string name="kousik_details">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</string>
+</resources>
